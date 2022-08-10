@@ -2,6 +2,7 @@
   "_format": "ethers-rs-sol-cache-3",
   "paths": {
     "artifacts": "out",
+    "build_infos": "out/build-info",
     "sources": "src",
     "tests": "test",
     "scripts": "script",
@@ -11,7 +12,7 @@
   },
   "files": {
     "lib/forge-std/lib/ds-test/src/test.sol": {
-      "lastModificationDate": 1659890713457,
+      "lastModificationDate": 1660081298926,
       "contentHash": "962996f0e05d5218857a538a62d7c47e",
       "sourceName": "lib/forge-std/lib/ds-test/src/test.sol",
       "solcConfig": {
@@ -44,12 +45,12 @@
       "versionRequirement": ">=0.5.0",
       "artifacts": {
         "DSTest": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "test.sol/DSTest.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "test.sol/DSTest.json"
         }
       }
     },
     "lib/forge-std/src/Script.sol": {
-      "lastModificationDate": 1659890711750,
+      "lastModificationDate": 1660081298926,
       "contentHash": "b313d0193442f5a12848be9c422a0064",
       "sourceName": "lib/forge-std/src/Script.sol",
       "solcConfig": {
@@ -86,12 +87,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Script.sol/Script.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Script.sol/Script.json"
         }
       }
     },
     "lib/forge-std/src/Test.sol": {
-      "lastModificationDate": 1659890711750,
+      "lastModificationDate": 1660081298926,
       "contentHash": "53ceea3c517ab4a534fd89689f36aee9",
       "sourceName": "lib/forge-std/src/Test.sol",
       "solcConfig": {
@@ -130,21 +131,21 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Test": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Test.sol/Test.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Test.sol/Test.json"
         },
         "stdError": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Test.sol/stdError.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Test.sol/stdError.json"
         },
         "stdMath": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Test.sol/stdMath.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Test.sol/stdMath.json"
         },
         "stdStorage": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Test.sol/stdStorage.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Test.sol/stdStorage.json"
         }
       }
     },
     "lib/forge-std/src/Vm.sol": {
-      "lastModificationDate": 1659890711750,
+      "lastModificationDate": 1660081298926,
       "contentHash": "87cafdea05acb705b59c6fa2a685d229",
       "sourceName": "lib/forge-std/src/Vm.sol",
       "solcConfig": {
@@ -177,12 +178,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Vm.sol/Vm.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Vm.sol/Vm.json"
         }
       }
     },
     "lib/forge-std/src/console.sol": {
-      "lastModificationDate": 1659890711750,
+      "lastModificationDate": 1660081298926,
       "contentHash": "100b8a33b917da1147740d7ab8b0ded3",
       "sourceName": "lib/forge-std/src/console.sol",
       "solcConfig": {
@@ -215,12 +216,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "console.sol/console.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
     "lib/forge-std/src/console2.sol": {
-      "lastModificationDate": 1659890711750,
+      "lastModificationDate": 1660081298926,
       "contentHash": "5df91f8e93efbfcccf68973dc1b74a70",
       "sourceName": "lib/forge-std/src/console2.sol",
       "solcConfig": {
@@ -253,12 +254,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "console2.sol/console2.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1659892877545,
+      "lastModificationDate": 1660101883358,
       "contentHash": "e436cea06129be2c73cda4b1acc848b5",
       "sourceName": "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -293,12 +294,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Ownable": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Ownable.sol/Ownable.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Ownable.sol/Ownable.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol": {
-      "lastModificationDate": 1659892877549,
+      "lastModificationDate": 1660101883378,
       "contentHash": "92cc1aad41bdb18ca20f6e03f461de7d",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
@@ -335,12 +336,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "ERC20": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "ERC20.sol/ERC20.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "ERC20.sol/ERC20.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1659892877549,
+      "lastModificationDate": 1660101883378,
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -373,12 +374,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC20": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "IERC20.sol/IERC20.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "IERC20.sol/IERC20.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
-      "lastModificationDate": 1659892877549,
+      "lastModificationDate": 1660101883379,
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
@@ -413,12 +414,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC20Metadata": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "IERC20Metadata.sol/IERC20Metadata.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "IERC20Metadata.sol/IERC20Metadata.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/Context.sol": {
-      "lastModificationDate": 1659892877552,
+      "lastModificationDate": 1660101883382,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/Context.sol",
       "solcConfig": {
@@ -451,12 +452,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Context": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Context.sol/Context.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Context.sol/Context.json"
         }
       }
     },
     "script/Contract.s.sol": {
-      "lastModificationDate": 1659890710126,
+      "lastModificationDate": 1660081298976,
       "contentHash": "3642d05d9c479368231825c40aaa276a",
       "sourceName": "script/Contract.s.sol",
       "solcConfig": {
@@ -494,13 +495,13 @@
       "versionRequirement": "^0.8.13",
       "artifacts": {
         "ContractScript": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Contract.s.sol/ContractScript.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Contract.s.sol/ContractScript.json"
         }
       }
     },
     "src/FoundryToken.sol": {
-      "lastModificationDate": 1659968144386,
-      "contentHash": "cc87863a42344da34a5c4d2408697276",
+      "lastModificationDate": 1660102492595,
+      "contentHash": "f7c815b45320c66b81bbc62a7f2a692c",
       "sourceName": "src/FoundryToken.sol",
       "solcConfig": {
         "settings": {
@@ -535,16 +536,16 @@
         "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
         "lib/openzeppelin-contracts/contracts/utils/Context.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": ">=0.8.0, <0.8.16",
       "artifacts": {
         "FoundryToken": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "FoundryToken.sol/FoundryToken.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "FoundryToken.sol/FoundryToken.json"
         }
       }
     },
     "test/FoundryToken.t.sol": {
-      "lastModificationDate": 1659968506025,
-      "contentHash": "3d5b23962c2c8aeb3f9e2f605a33f87b",
+      "lastModificationDate": 1660102656923,
+      "contentHash": "a4bfb2231635e8f4737352c01d1085af",
       "sourceName": "test/FoundryToken.t.sol",
       "solcConfig": {
         "settings": {
@@ -587,16 +588,16 @@
         "src/FoundryToken.sol",
         "test/utils/Utilities.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": ">=0.8.0, <0.8.16",
       "artifacts": {
         "FoundryTokenTest": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "FoundryToken.t.sol/FoundryTokenTest.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "FoundryToken.t.sol/FoundryTokenTest.json"
         }
       }
     },
     "test/utils/Utilities.sol": {
-      "lastModificationDate": 1659895225420,
-      "contentHash": "faa0b540e3ad3c94c1756bc15b70168d",
+      "lastModificationDate": 1660102504685,
+      "contentHash": "96ea6a600e1e84260e1dc4f4560d1ac0",
       "sourceName": "test/utils/Utilities.sol",
       "solcConfig": {
         "settings": {
@@ -632,10 +633,10 @@
         "lib/forge-std/src/console.sol",
         "lib/forge-std/src/console2.sol"
       ],
-      "versionRequirement": ">=0.8.0",
+      "versionRequirement": ">=0.8.0, <0.8.16",
       "artifacts": {
         "Utilities": {
-          "0.8.15+commit.e14f2714.Linux.gcc": "Utilities.sol/Utilities.json"
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "Utilities.sol/Utilities.json"
         }
       }
     }
